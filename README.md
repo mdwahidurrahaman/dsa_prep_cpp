@@ -1,2 +1,7 @@
-# dsa_prep_cpp
-A collection of Data Structures and Algorithms problems and their C++ implementations for practice and preparation.
+DSA Preparation in C++
+
+My Data Structures and Algorithms practice repository, containing solutions and implementations written in C++.
+
+This repository is built step-by-step as I learn and practice DSA.
+
+Language: C++
